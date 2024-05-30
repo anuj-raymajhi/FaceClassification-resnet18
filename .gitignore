@@ -3,3 +3,8 @@ faceClassificationDataset.npz
 faceClassificationAugDataset.npz
 faceClassificationAug.keras
 faceClassificationData_Aug_Cropped.npz
+siamese_resnet.h5
+siamese_resnet.keras
+dissimilar_results/
+siamese_results/
+similar_results/
