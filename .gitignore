@@ -1,3 +1,5 @@
 faceClassification.keras
 faceClassificationDataset.npz
 faceClassificationAugDataset.npz
+faceClassificationAug.keras
+faceClassificationData_Aug_Cropped.npz
